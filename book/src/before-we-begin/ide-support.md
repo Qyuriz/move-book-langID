@@ -1,9 +1,10 @@
 # Set up your IDE
+Mengatur IDE Milikmu
 
-There are two most popular IDEs for Move development: VSCode and IntelliJ IDEA. Both of them provide
-basic features like syntax highlighting and error messages, though they differ in their additional
-features. Whatever IDE you choose, you'll need to use the terminal to run the
-[Move CLI](./install-sui.md).
+Terdapat dua IDE populer untuk pengembangan berbasis move: VSCode dan IntelliJ IDEA. Keduanya menyajikan fitur
+umum seperti sorotan pada syntax dan pesan kesalahan, meskipun ada perbedaan dalam beberapa fitur tambahan.
+Apapun IDE yang kamu pilih, kamu membutuhkan terminal untuk menjalankan [Move CLI](./install-sui.md).
+
 
 > **IntelliJ Plugin does not support Move 2024 edition, some syntax won't get highlighted.**
 
