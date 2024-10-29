@@ -1,4 +1,4 @@
-# Appendix A: Glossary
+# Lampiran A: Glosarium
 
 - Fast Path - term used to describe a transaction that does not involve shared objects, and can be
   executed without the need for consensus.
