@@ -1,12 +1,12 @@
 # Lampiran A: Glosarium
 
-- Fast Path - term used to describe a transaction that does not involve shared objects, and can be
-  executed without the need for consensus.
-- Parallel Execution - term used to describe the ability of the Sui runtime to execute transactions
-  in parallel, including the ones that involve shared objects.
-- Internal Type - type that is defined within the module. Fields of this type can not be accessed
-  from outside the module, and, in case of "key"-only abilities, can not be used in `public_*`
-  transfer functions.
+- Fast Path - Istilah yang digunakan untuk menggambarkan sebuah transaksi yang tidak melibatkan shared object,
+  dan bisa dieksekusi tanpa perlu konsensus.
+- Parallel Execution -istilah yang digunakan untuk menggambarkan kemampuan runtime Sui untuk mengeksekusi
+  transaksi secara paralel, termasuk transaksi yang melibatkan shared objects.
+- Internal Type - tipe yang didefinisikan di dalam modul. Ruang lingkup dari tipe ini tidak bisa diakses
+  dari luar modul, dan, dalam kasus "key"-only abilities, tidak bisa digunakan dalam fungsi transfer `public_*`
+  
 
 ## Abilities
 
